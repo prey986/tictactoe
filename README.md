@@ -1,2 +1,2 @@
 # tictactoe
-game using html,css,javascript
+game using html,css and javascript
